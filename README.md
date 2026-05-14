@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **Instake**, a web app to calculate quantity takeoffs **instantly**
+- 🔭 I’m currently working on **RiverBank**, a web app to help manage your poker games
 <!--
 **justinwitter/justinwitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
